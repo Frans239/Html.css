@@ -1,5 +1,5 @@
 p {
-    color: red;
+    color: green;
 }
 
 a {
@@ -7,7 +7,7 @@ a {
 }
 body {
     font-size: 14px;
-    color: purple;
+    color: #198;
 }
 h1 {
     color: #ffc;
@@ -33,4 +33,16 @@ a {
 strong {
     font-style: italic;
     text-transform: uppercase;
+}
+p {
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    line-height: 1.5;
+    text-align: left;
+}
+h2 {
+    font-size: 1em;
+    background-color: red;
+    margin: 10px;
+    padding: 20px;
 }

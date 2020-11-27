@@ -3,7 +3,7 @@ body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
+    background-color: #FF00A6;
     margin: 20px;
     padding: 0;
 }
@@ -14,8 +14,8 @@ p {
 }
 
 h1 {
-    color: #ffc;
-    background-color: #900;
+    color: #D5C466;
+    background-color: black;
     font-size: 2em;
     margin: 0;
     margin-bottom: 7px;
@@ -25,12 +25,12 @@ h1 {
     letter-spacing: 0.5em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #c00;
+    border-bottom-color: #c0c0c0;
 }
 
 h2 {
     color: white;
-    background-color: #090;
+    background-color: #00FF3E;
     font-size: 1.5em;
     margin: 0;
     padding: 2px;

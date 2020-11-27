@@ -1,29 +1,51 @@
-p {
-    color: green;
-}
 
-a {
-    color: blue;
-}
-body {
-    font-size: 14px;
-    color: #198;
-}
-h1 {
-    color: #ffc;
-    background-color: #009;
-}
 body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
+    color: black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+
+p {
+    line-height: 21px;
 }
 
 h1 {
+    color: #ffc;
+    background-color: #900;
     font-size: 2em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;
 }
 
 h2 {
+    color: white;
+    background-color: #090;
     font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: #999;
+    font-size: 1.25em;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
 }
 
 a {
@@ -34,22 +56,12 @@ strong {
     font-style: italic;
     text-transform: uppercase;
 }
-p {
-    letter-spacing: 0.1em;
-    word-spacing: 0.1em;
-    line-height: 1.5;
-    text-align: left;
+
+li {
+    color: #900;
+    font-style: italic;
 }
-h2 {
-    font-size: 1em;
-    background-color: red;
-    margin: 10px;
-    padding: 20px;
-}
-h2 {
-    border-style: dashed;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 20px;
-    border-color: black;
+
+table {
+    background-color: #ccc;
 }
